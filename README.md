@@ -1,4 +1,4 @@
-## App add your best movies(Movie Name,Poster of the movie,The Note) (Front end React, State management : Context Api)
+# App add your best movies(Movie Name,Poster of the movie,The Note) ,Front end React, State management : Context Api
 
 # Getting Started with Create React App
 
