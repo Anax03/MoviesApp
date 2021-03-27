@@ -1,4 +1,5 @@
-# App add your best movies(Movie Name,Poster of the movie,The Note) ,Front end React, State management : Context Api
+
+App add your best movies(Movie Name,Poster of the movie,The Note) ,Front end React, State management : Context Api
 
 # Getting Started with Create React App
 
@@ -7,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
